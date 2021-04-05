@@ -5,7 +5,7 @@
 
 하모니카 4.0의 바탕화면 모니터링 기능을 온/오프 하는 프로그램
 
- * HamoniKR-ME (>= 4.0) 지원
+ * HamoniKR (>= 4.0) 지원
  * dependancy : conky, conky-all, conky-manager
 
 # Install
@@ -17,7 +17,6 @@
 sudo apt update
 sudo apt install -y conky-toggle
 ```
-
 
 # Usage
  * 프로그램 > `바탕화면 모니터링 온/오프` 실행
